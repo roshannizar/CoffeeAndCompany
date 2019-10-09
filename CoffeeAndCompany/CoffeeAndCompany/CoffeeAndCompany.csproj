@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{69D94124-6C1D-4090-8E93-0EA0F5588BBC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CoffeeAndCompany</RootNamespace>
+    <AssemblyName>CoffeeAndCompany</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ambiance Theme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CC-changepassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-changepassword.Designer.cs">
+      <DependentUpon>CC-changepassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-Customer.Designer.cs">
+      <DependentUpon>CC-Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-Dashboard.Designer.cs">
+      <DependentUpon>CC-Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-Delivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-Delivery.Designer.cs">
+      <DependentUpon>CC-Delivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-Driver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-Driver.Designer.cs">
+      <DependentUpon>CC-Driver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-Intro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-Intro.Designer.cs">
+      <DependentUpon>CC-Intro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-Login.Designer.cs">
+      <DependentUpon>CC-Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-LowStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-LowStock.Designer.cs">
+      <DependentUpon>CC-LowStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-ResetPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-ResetPass.Designer.cs">
+      <DependentUpon>CC-ResetPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-Sales.Designer.cs">
+      <DependentUpon>CC-Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-Signup.Designer.cs">
+      <DependentUpon>CC-Signup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CC-Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CC-Stock.Designer.cs">
+      <DependentUpon>CC-Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="colorcombobox_-_c#.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="connection.cs" />
+    <Compile Include="italk_theme_-_c#.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MonoFlat Theme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="notificationbox_-_c#.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="playui_theme_-_c#.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CC-changepassword.resx">
+      <DependentUpon>CC-changepassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-Customer.resx">
+      <DependentUpon>CC-Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-Dashboard.resx">
+      <DependentUpon>CC-Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-Delivery.resx">
+      <DependentUpon>CC-Delivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-Driver.resx">
+      <DependentUpon>CC-Driver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-Intro.resx">
+      <DependentUpon>CC-Intro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-Login.resx">
+      <DependentUpon>CC-Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-LowStock.resx">
+      <DependentUpon>CC-LowStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-ResetPass.resx">
+      <DependentUpon>CC-ResetPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-Sales.resx">
+      <DependentUpon>CC-Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-Signup.resx">
+      <DependentUpon>CC-Signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CC-Stock.resx">
+      <DependentUpon>CC-Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

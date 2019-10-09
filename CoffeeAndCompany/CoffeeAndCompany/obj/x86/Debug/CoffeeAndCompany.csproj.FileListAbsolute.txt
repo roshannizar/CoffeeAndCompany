@@ -1,0 +1,38 @@
+c:\users\roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\bin\Debug\CoffeeAndCompany.exe
+c:\users\roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\bin\Debug\CoffeeAndCompany.pdb
+c:\users\roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmintro.resources
+c:\users\roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmlogin.resources
+c:\users\roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmsignup.resources
+c:\users\roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.Properties.Resources.resources
+c:\users\roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.csproj.GenerateResource.Cache
+c:\users\roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.exe
+c:\users\roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.pdb
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmresetpass.resources
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmdashboard.resources
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmstock.resources
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmlowstock.resources
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmdelivery.resources
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmcustomer.resources
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmdriver.resources
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmsales.resources
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\bin\Debug\CoffeeAndCompany.exe.config
+C:\Users\Roshan\documents\visual studio 2010\Projects\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.CC_changepassword.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\bin\Debug\CoffeeAndCompany.exe.config
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.exe
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.pdb
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.csprojResolveAssemblyReference.cache
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.CC_changepassword.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmcustomer.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmdashboard.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmdelivery.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmdriver.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmintro.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmlogin.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmlowstock.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmresetpass.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmsales.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmsignup.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.frmstock.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.Properties.Resources.resources
+F:\CoffeeAndCompany\CoffeeAndCompany\obj\x86\Debug\CoffeeAndCompany.csproj.GenerateResource.Cache
